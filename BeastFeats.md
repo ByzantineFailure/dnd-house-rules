@@ -16,7 +16,7 @@ Animal companions and familiars gain hit dice as their owner levels.  **In order
 
 Hit dice for animal companions is `HD Max + CON Mod` at level one and `ceil(HD Avg) + CON Mod` at higher levels.  **The exception to this is d4 HD beasts which will use `floor(HD Avg) + CON Mod` to avoid a "cliff" where lower HD values result in higher HP**
 
-| Hit Dice | ceil(HD Avg) | Gained every X owner levels |
+| Hit Dice | HP from HD after Level 1 | Gained every X owner levels |
 |----------|-----------|-----------------------------|
 | d1       | 1 | 1 |
 | d2       | 2 | 1 |
