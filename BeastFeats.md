@@ -2,7 +2,7 @@
 
 Animal companions and familiars are a great part of DnD!  However, as characters level they tend to become more of a burden than a help.  The rules laid out here are intended to allow them to remain useful without becoming overpowered.
 
-As a summary, beasts gain hit dice and feats as their owners level.  
+As a summary, beasts gain hit dice and feats as their owners level.  They inherit their owner's proficiency modifier.  
 
 ## Qualifying for these rules
 
@@ -27,6 +27,10 @@ Hit dice for animal companions is `HD Max + CON Mod` at level one and `ceil(HD A
 | d10      | 6 | 2 |
 | d12      | 7 | 2 |
 
+## Proficiency Modifier
+
+Animal companions inherit their master's proficiency modifier.
+
 ## Beast Feats
 
 Every two levels a beast companion may select one feat from the following table.  Players are encouraged to flavor their companion in a way that makes sense with feats they have selected.  For example, a fiendish familiar which has selected "Deterrent" could be flavored as gaining horns, glowing red eyes, and an odor of brimstone.
@@ -37,15 +41,15 @@ Every two levels a beast companion may select one feat from the following table.
 | Agile |	2 |	+1 AC, +2 DEX saves |
 | Survivor |	2 |	+1 Hit Points per level, +2 CON saves |
 | Determined |	2 |	+1 Hit Points per level, +2 WIS saves |
-| Clever |	2 |	Gain proficiency, or upgrade to expertise, in a probable skill, +2 INT saves |
-| Cute |	2 |	Gain proficiency, or upgrade to expertise, in performance, +2 CHA saves |
+| Clever |	2 |	Gain proficiency in a skill an animal might have, +2 INT saves.  Upgrade to expertise with two points. |
+| Cute |	2 |	Gain proficiency in performance, +2 CHA saves.  Upgrade to expertise with two points. |
 | Swift |	2 |	+5 Movement Speed |
 | Strong Back |	1 |	Can push, pull, and carry 2x as much |
-| Sneaky |	2 |	Gain +5 and then advantage on Stealth with 2 points invested. |
+| Sneaky |	2 |	Gain +5 on Stealth checks.  Gain advantage with 2 points. |
 | Alert |	1 |	+5 to Perception Skill |
 | Swimmer |	1 |	Double Swim Speed and Breath duration |
-| Tracker |	2 |	Gain +5 and then advantage on all checks used to track another creature with 2 points invested. |
-| Deterrent |	2 |	Gain +5 and then advantage on intimidation checks to deter others from approaching with 2 points invested. |
+| Tracker |	2 |	Gain +5 on all checks used to track another creature.  Gain advantage with 2 points. |
+| Deterrent |	2 |	Gain +5 on intimidation checks to deter others from approaching.  Gain advantage with 2 points. |
 | Combat Training |	2 |	Gain +1 to attack rolls and ability DCs |
 | Vicious |	2 |	Gain +1 to damage done with attacks |
 | Frenzied | 	1 |	Attack an additional time when taking the attack action (Requires Level 6) |
