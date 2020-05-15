@@ -14,14 +14,14 @@ In order to qualify for these rules a given beast must be persistent in the part
 
 Animal companions and familiars gain hit dice as their owner levels.  **In order to retain game balance creatures with higher-value  hit dice gain extra at a slower rate than creatures with lower-value hit dice.  Creatures with low-value HD and high CON mods may disrupt balance and are subject to additional restrictions.**
 
-Hit dice for animal companions is `HD Max + CON Mod` at level one and `ceil(HD Avg) + CON Mod` at higher levels.
+Hit dice for animal companions is `HD Max + CON Mod` at level one and `ceil(HD Avg) + CON Mod` at higher levels.  **The exception to this is d4 HD beasts which will use `floor(HD Avg) + CON Mod` to avoid a "cliff" where lower HD values result in higher HP**
 
 | Hit Dice | ceil(HD Avg) | Gained every X owner levels |
 |----------|-----------|-----------------------------|
 | d1       | 1 | 1 |
 | d2       | 2 | 1 |
 | d3       | 2 | 1 |
-| d4       | 3 | 2 |
+| d4       | 2 | 1 |
 | d6       | 4 | 2 |
 | d8       | 5 | 2 |
 | d10      | 6 | 2 |
