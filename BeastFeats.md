@@ -2,7 +2,7 @@
 
 Animal companions and familiars are a great part of DnD!  However, as characters level they tend to become more of a burden than a help.  The rules laid out here are intended to allow them to remain useful without becoming overpowered.
 
-As a summary, beasts gain hit dice as their owners level.  
+As a summary, beasts gain hit dice and feats as their owners level.  
 
 ## Qualifying for these rules
 
